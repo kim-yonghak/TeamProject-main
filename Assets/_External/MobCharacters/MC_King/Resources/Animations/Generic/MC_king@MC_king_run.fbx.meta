@@ -1,0 +1,601 @@
+fileFormatVersion: 2
+guid: a62cb0ab07043ef42b46f2223abae3b3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Chest
+  - first:
+      1: 100002
+    second: collarLeft
+  - first:
+      1: 100004
+    second: collarRear
+  - first:
+      1: 100006
+    second: collarRight
+  - first:
+      1: 100008
+    second: Head
+  - first:
+      1: 100010
+    second: Hips
+  - first:
+      1: 100012
+    second: LeftArm
+  - first:
+      1: 100014
+    second: LeftFoot
+  - first:
+      1: 100016
+    second: LeftForeArm
+  - first:
+      1: 100018
+    second: LeftHand
+  - first:
+      1: 100020
+    second: LeftHandIndex01
+  - first:
+      1: 100022
+    second: LeftHandIndex02
+  - first:
+      1: 100024
+    second: LeftHandIndex03
+  - first:
+      1: 100026
+    second: LeftHandMiddle01
+  - first:
+      1: 100028
+    second: LeftHandMiddle02
+  - first:
+      1: 100030
+    second: LeftHandMiddle03
+  - first:
+      1: 100032
+    second: LeftHandPinky01
+  - first:
+      1: 100034
+    second: LeftHandPinky02
+  - first:
+      1: 100036
+    second: LeftHandPinky03
+  - first:
+      1: 100038
+    second: LeftHandRing01
+  - first:
+      1: 100040
+    second: LeftHandRing02
+  - first:
+      1: 100042
+    second: LeftHandRing03
+  - first:
+      1: 100044
+    second: LeftHandThumb01
+  - first:
+      1: 100046
+    second: LeftHandThumb02
+  - first:
+      1: 100048
+    second: LeftHandThumb03
+  - first:
+      1: 100050
+    second: LeftLeg
+  - first:
+      1: 100052
+    second: LeftShoulder
+  - first:
+      1: 100054
+    second: LeftToe
+  - first:
+      1: 100056
+    second: LeftUpLeg
+  - first:
+      1: 100058
+    second: MantleLeft
+  - first:
+      1: 100060
+    second: MantleRear
+  - first:
+      1: 100062
+    second: MantleRight
+  - first:
+      1: 100064
+    second: //RootNode
+  - first:
+      1: 100066
+    second: Neck
+  - first:
+      1: 100068
+    second: RightArm
+  - first:
+      1: 100070
+    second: RightFoot
+  - first:
+      1: 100072
+    second: RightForeArm
+  - first:
+      1: 100074
+    second: RightHand
+  - first:
+      1: 100076
+    second: RightHandIndex01
+  - first:
+      1: 100078
+    second: RightHandIndex02
+  - first:
+      1: 100080
+    second: RightHandIndex03
+  - first:
+      1: 100082
+    second: RightHandMiddle01
+  - first:
+      1: 100084
+    second: RightHandMiddle02
+  - first:
+      1: 100086
+    second: RightHandMiddle03
+  - first:
+      1: 100088
+    second: RightHandPinky01
+  - first:
+      1: 100090
+    second: RightHandPinky02
+  - first:
+      1: 100092
+    second: RightHandPinky03
+  - first:
+      1: 100094
+    second: RightHandRing01
+  - first:
+      1: 100096
+    second: RightHandRing02
+  - first:
+      1: 100098
+    second: RightHandRing03
+  - first:
+      1: 100100
+    second: RightHandThumb01
+  - first:
+      1: 100102
+    second: RightHandThumb02
+  - first:
+      1: 100104
+    second: RightHandThumb03
+  - first:
+      1: 100106
+    second: RightLeg
+  - first:
+      1: 100108
+    second: RightShoulder
+  - first:
+      1: 100110
+    second: RightToe
+  - first:
+      1: 100112
+    second: RightUpLeg
+  - first:
+      1: 100114
+    second: Spine
+  - first:
+      4: 400000
+    second: Chest
+  - first:
+      4: 400002
+    second: collarLeft
+  - first:
+      4: 400004
+    second: collarRear
+  - first:
+      4: 400006
+    second: collarRight
+  - first:
+      4: 400008
+    second: Head
+  - first:
+      4: 400010
+    second: Hips
+  - first:
+      4: 400012
+    second: LeftArm
+  - first:
+      4: 400014
+    second: LeftFoot
+  - first:
+      4: 400016
+    second: LeftForeArm
+  - first:
+      4: 400018
+    second: LeftHand
+  - first:
+      4: 400020
+    second: LeftHandIndex01
+  - first:
+      4: 400022
+    second: LeftHandIndex02
+  - first:
+      4: 400024
+    second: LeftHandIndex03
+  - first:
+      4: 400026
+    second: LeftHandMiddle01
+  - first:
+      4: 400028
+    second: LeftHandMiddle02
+  - first:
+      4: 400030
+    second: LeftHandMiddle03
+  - first:
+      4: 400032
+    second: LeftHandPinky01
+  - first:
+      4: 400034
+    second: LeftHandPinky02
+  - first:
+      4: 400036
+    second: LeftHandPinky03
+  - first:
+      4: 400038
+    second: LeftHandRing01
+  - first:
+      4: 400040
+    second: LeftHandRing02
+  - first:
+      4: 400042
+    second: LeftHandRing03
+  - first:
+      4: 400044
+    second: LeftHandThumb01
+  - first:
+      4: 400046
+    second: LeftHandThumb02
+  - first:
+      4: 400048
+    second: LeftHandThumb03
+  - first:
+      4: 400050
+    second: LeftLeg
+  - first:
+      4: 400052
+    second: LeftShoulder
+  - first:
+      4: 400054
+    second: LeftToe
+  - first:
+      4: 400056
+    second: LeftUpLeg
+  - first:
+      4: 400058
+    second: MantleLeft
+  - first:
+      4: 400060
+    second: MantleRear
+  - first:
+      4: 400062
+    second: MantleRight
+  - first:
+      4: 400064
+    second: //RootNode
+  - first:
+      4: 400066
+    second: Neck
+  - first:
+      4: 400068
+    second: RightArm
+  - first:
+      4: 400070
+    second: RightFoot
+  - first:
+      4: 400072
+    second: RightForeArm
+  - first:
+      4: 400074
+    second: RightHand
+  - first:
+      4: 400076
+    second: RightHandIndex01
+  - first:
+      4: 400078
+    second: RightHandIndex02
+  - first:
+      4: 400080
+    second: RightHandIndex03
+  - first:
+      4: 400082
+    second: RightHandMiddle01
+  - first:
+      4: 400084
+    second: RightHandMiddle02
+  - first:
+      4: 400086
+    second: RightHandMiddle03
+  - first:
+      4: 400088
+    second: RightHandPinky01
+  - first:
+      4: 400090
+    second: RightHandPinky02
+  - first:
+      4: 400092
+    second: RightHandPinky03
+  - first:
+      4: 400094
+    second: RightHandRing01
+  - first:
+      4: 400096
+    second: RightHandRing02
+  - first:
+      4: 400098
+    second: RightHandRing03
+  - first:
+      4: 400100
+    second: RightHandThumb01
+  - first:
+      4: 400102
+    second: RightHandThumb02
+  - first:
+      4: 400104
+    second: RightHandThumb03
+  - first:
+      4: 400106
+    second: RightLeg
+  - first:
+      4: 400108
+    second: RightShoulder
+  - first:
+      4: 400110
+    second: RightToe
+  - first:
+      4: 400112
+    second: RightUpLeg
+  - first:
+      4: 400114
+    second: Spine
+  - first:
+      74: 7400000
+    second: MC_king_run
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MC_king_run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToe
+        weight: 1
+      - path: Hips/MantleLeft
+        weight: 1
+      - path: Hips/MantleRear
+        weight: 1
+      - path: Hips/MantleRight
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightToe
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Chest
+        weight: 1
+      - path: Hips/Spine/Chest/collarLeft
+        weight: 1
+      - path: Hips/Spine/Chest/collarRear
+        weight: 1
+      - path: Hips/Spine/Chest/collarRight
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex01
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex01/LeftHandIndex02
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex01/LeftHandIndex02/LeftHandIndex03
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle01
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle01/LeftHandMiddle02
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle01/LeftHandMiddle02/LeftHandMiddle03
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky01
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky01/LeftHandPinky02
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky01/LeftHandPinky02/LeftHandPinky03
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing01
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing01/LeftHandRing02
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing01/LeftHandRing02/LeftHandRing03
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb01
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb01/LeftHandThumb02
+        weight: 1
+      - path: Hips/Spine/Chest/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb01/LeftHandThumb02/LeftHandThumb03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex01
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex01/RightHandIndex02
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex01/RightHandIndex02/RightHandIndex03
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle01
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle01/RightHandMiddle02
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle01/RightHandMiddle02/RightHandMiddle03
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky01
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky01/RightHandPinky02
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky01/RightHandPinky02/RightHandPinky03
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing01
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing01/RightHandRing02
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing01/RightHandRing02/RightHandRing03
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb01
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb01/RightHandThumb02
+        weight: 1
+      - path: Hips/Spine/Chest/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb01/RightHandThumb02/RightHandThumb03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Hips
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

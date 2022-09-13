@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d6d337f580d1d45854d6cac23384a0, type: 3}
+  m_Name: Bow Default
+  m_EditorClassIdentifier: 
+  type: 1
+  stackable: 0
+  icon: {fileID: -1510542724075705309, guid: ba00d2cc9cfe3aa4dbabe584112b29a8, type: 3}
+  modelPrefab: {fileID: 8919685932961527619, guid: fe18d291a7d3fe841b443a4f3c023a80, type: 3}
+  price: 1000
+  data:
+    id: 100
+    name: "\uB098\uBB34\uD65C"
+    itemType: 1
+    buffs:
+    - stat: 0
+      value: 22
+      min: 20
+      max: 30
+  boneNames: []
+  description: "\uB098\uBB34\uB85C \uB9CC\uB4E4\uC5B4\uC9C4 \uD3C9\uBC94\uD55C \uB098\uBB34
+    \uD65C.\n\n\uC7A5\uCC29\uD558\uBA74 \uD654\uC0B4\uC744 \uC3E0 \uC218 \uC788\uB2E4.\n\uB108\uBB34
+    \uD5D8\uD558\uAC8C \uB2E4\uB8E8\uBA74 \uBD80\uB7EC\uC838\uBC84\uB9B4 \uC9C0\uB3C4
+    \uBAA8\uB974\uB2C8 \uC870\uC2EC\uD558\uC790!"

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5d6d337f580d1d45854d6cac23384a0, type: 3}
+  m_Name: ManaPortion
+  m_EditorClassIdentifier: 
+  type: 2
+  stackable: 1
+  icon: {fileID: 4257004438954200034, guid: ba00d2cc9cfe3aa4dbabe584112b29a8, type: 3}
+  modelPrefab: {fileID: 0}
+  price: 200
+  data:
+    id: 201
+    name: "\uB9C8\uB098 \uD3EC\uC158"
+    itemType: 2
+    buffs:
+    - stat: 4
+      value: 101
+      min: 100
+      max: 150
+  boneNames: []
+  description: "\uBCD1\uC5D0 \uB2F4\uAE34 \uD30C\uB780\uC0C9\uC758 \uC561\uCCB4.\n\n\uB9C8\uC2DC\uBA74
+    \uB9C8\uB098\uB97C \uD68C\uBCF5\uD560 \uC218 \uC788\uB2E4.\n\uD3EC\uB3C4\uB9DB\uACFC
+    \uCCB4\uB9AC\uB9DB\uC774 \uC624\uBB18\uD558\uAC8C \uC11E\uC778 \uB9DB\uC774 \uB09C\uB2E4.\n\n\uB9DB\uC788\uB2E4\uACE0
+    \uB108\uBB34 \uB9CE\uC774 \uB9C8\uC2DC\uBA74 \uC911\uB3C5\uB418\uC9C0\uB294 \uC54A\uC9C0\uB9CC,
+    \uC544\uAE4C\uC6B4 \uD3EC\uC158\uC744 \uB0AD\uBE44\uD558\uAC8C \uB418\uB2C8 \uC870\uC2EC\uD560
+    \uAC83."
